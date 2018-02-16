@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 15, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Breanna Bush)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment calculates a user's monthly living expenses for a given month, and it also displays the percentage of expenses that were spent for each category.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://breb96.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The getElementById method references elements on a web page by using its id value.
+2. To create a text field you would have to use input type="text".
+3. toFixed() is a method that is used to ensure a certain amount of digits appear after the decimal for the value.
 
 
 
